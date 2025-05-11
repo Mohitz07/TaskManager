@@ -36,8 +36,10 @@ It's a full-fledged Spring Boot web app with task management capabilities and a 
 - **Java**
 - **Spring Boot**
 - **Spring Security**
-- **Thymeleaf**
-- **H2 Database**
+- **HTML**
+- **CSS**
+- **Js**
+- **Docker**
 - **Maven**
 
 ---
