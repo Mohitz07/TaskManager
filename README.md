@@ -10,7 +10,8 @@ It's a full-fledged Spring Boot web app with task management capabilities and a 
 - **User Login Authentication**
 - **Welcome Dashboard**
 - **CRUD Functionality** for Tasks (Create, Read, Update, Delete)
-- **Beautiful UI inspired by Solo Leveling**
+- **Dockerized MySQL** database
+- **Beautiful UI inspired by Solo Leveling UI built with **JSP + Bootstrap****
 
 ---
 
