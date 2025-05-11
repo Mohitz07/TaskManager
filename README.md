@@ -1,8 +1,43 @@
-TaskManager
-Hey, Let me introduce you to my new application inspired by solo levelling.
-1)Login Page
-![image](https://github.com/user-attachments/assets/a70c2356-c5bb-445a-88dd-7d2be9967329)
-2)Welcome Page
-![image](https://github.com/user-attachments/assets/6a1323e8-06ce-49bc-8509-6528f830e691)
-3)Create, read, update, and delete tasks.
-![image](https://github.com/user-attachments/assets/e2165183-906f-45a4-a218-4adeb008f445)
+# 🌟 TaskManager
+
+Hey! Let me introduce you to my new application — **TaskManager**, inspired by *Solo Leveling*.  
+It's a full-fledged Spring Boot web app with task management capabilities and a cool aesthetic vibe!
+
+---
+
+## ✨ Features
+
+- **User Login Authentication**
+- **Welcome Dashboard**
+- **CRUD Functionality** for Tasks (Create, Read, Update, Delete)
+- **Beautiful UI inspired by Solo Leveling**
+
+---
+
+## 🖼️ Screenshots
+
+### 1. **Login Page**
+![Login Page](https://github.com/user-attachments/assets/a70c2356-c5bb-445a-88dd-7d2be9967329)
+
+---
+
+### 2. **Welcome Page**
+![Welcome Page](https://github.com/user-attachments/assets/6a1323e8-06ce-49bc-8509-6528f830e691)
+
+---
+
+### 3. **Task Management (CRUD)**
+![CRUD Tasks](https://github.com/user-attachments/assets/e2165183-906f-45a4-a218-4adeb008f445)
+
+---
+
+## ⚙️ Tech Stack
+
+- **Java**
+- **Spring Boot**
+- **Spring Security**
+- **Thymeleaf**
+- **H2 Database**
+- **Maven**
+
+---
