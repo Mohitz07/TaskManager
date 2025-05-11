@@ -44,3 +44,19 @@ It's a full-fledged Spring Boot web app with task management capabilities and a 
 - **Maven**
 
 ---
+
+## ⚙️ Tech Stack
+
+| Layer           | Technology                          |
+|------------------|--------------------------------------|
+| Backend          | Spring Boot 3.4.4                    |
+| View Layer       | JSP, JSTL                            |
+| Security         | Spring Security                      |
+| Build Tool       | Maven                                |
+| Database         | MySQL (Dockerized)                   |
+| ORM              | Spring Data JPA                      |
+| Frontend Styling | Bootstrap (via WebJars), jQuery      |
+| Validation       | Spring Boot Validation               |
+| Dev Tools        | Spring Boot DevTools (Live Reload)   |
+
+---
