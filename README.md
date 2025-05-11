@@ -1,11 +1,11 @@
-# 🌟 TaskManager
+# TaskManager
 
 Hey! Let me introduce you to my new application — **TaskManager**, inspired by *Solo Leveling*.  
 It's a full-fledged Spring Boot web app with task management capabilities and a cool aesthetic vibe!
 
 ---
 
-## ✨ Features
+##  Features
 
 - **User Login Authentication**
 - **Welcome Dashboard**
@@ -15,37 +15,24 @@ It's a full-fledged Spring Boot web app with task management capabilities and a 
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### 1. **Login Page**
+## 1. **Login Page**
 ![Login Page](https://github.com/user-attachments/assets/a70c2356-c5bb-445a-88dd-7d2be9967329)
 
 ---
 
-### 2. **Welcome Page**
+## 2. **Welcome Page**
 ![Welcome Page](https://github.com/user-attachments/assets/6a1323e8-06ce-49bc-8509-6528f830e691)
 
 ---
 
-### 3. **Task Management (CRUD)**
+## 3. **Task Management (CRUD)**
 ![CRUD Tasks](https://github.com/user-attachments/assets/e2165183-906f-45a4-a218-4adeb008f445)
 
 ---
 
-## ⚙️ Tech Stack
-
-- **Java**
-- **Spring Boot**
-- **Spring Security**
-- **HTML**
-- **CSS**
-- **Js**
-- **Docker**
-- **Maven**
-
----
-
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer           | Technology                          |
 |------------------|--------------------------------------|
